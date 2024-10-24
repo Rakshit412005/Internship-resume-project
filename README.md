@@ -27,7 +27,7 @@ This is a simple, well-structured resume built using **HTML** and **CSS** with t
 
 ## 🔗 Live Demo
 
-You can view the live version of the resume [here](#).
+You can view the live version of the resume [here](https://rakshit412005.github.io/Internship-resume-project/).
 
 ## 📫 Contact
 
